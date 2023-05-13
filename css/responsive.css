@@ -1,0 +1,39 @@
+@media screen and (max-width:600px){
+    .col-1-flex{
+        flex-direction: column;
+    }
+    .col-1-flex img{
+        width: 60%;
+    }
+    .tour-bottom-flex{
+        flex-direction: column;
+        margin: 0.5rem;
+    }
+    .bttm-box{
+        width: 100%;
+        margin: 0.5rem 0px;
+    }
+}
+
+@media screen and (max-width:626px) {
+    .cnt-flex{
+        flex-direction: column;
+    }
+    .cnt-form form input{
+        display: block;
+        width: 100%;
+        margin: 1rem 0px;
+    }
+}
+
+@media screen and (max-width:998px){
+    html{
+        font-size: 55%;
+    }
+}
+
+@media screen and (max-width:768px){
+    html{
+        font-size: 45%;
+    }
+}
