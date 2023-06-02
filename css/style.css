@@ -30,7 +30,7 @@ html{
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: darkgrey; 
+    background: rgb(90, 89, 89); 
   }
 
 /* Css roots variables*/
