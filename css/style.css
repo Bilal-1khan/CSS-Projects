@@ -6,6 +6,7 @@
     list-style: none;
     text-decoration: none;
     font-family: var(--main-fonts);
+    scroll-behavior: smooth;
 }
 html{
     font-size: 62.5%;
